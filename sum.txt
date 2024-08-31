@@ -1,0 +1,4 @@
+Sum of 100 and 5 is:105
+Sum of 100 and 5 is:105
+Sum of 100 and 5 is:105
+Sum of 120 and 30 is:150

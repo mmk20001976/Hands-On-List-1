@@ -1,0 +1,2 @@
+hi! I am the parent process
+hi! I am the child process
